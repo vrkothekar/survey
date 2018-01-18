@@ -1,6 +1,6 @@
 <?php
 
-namespace Survey;
+namespace vrkothekar\survey;
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
