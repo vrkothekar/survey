@@ -2,5 +2,10 @@
     "name": "vrkothekar/survey",
     "license": "MIT",
     "minimum-stability": "stable",
+    "autoload":{
+        "psr-4": {
+            "vrkothekar\\survey\\": "src/"
+        }
+    },
     "require": {}
 }
